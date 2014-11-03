@@ -2,7 +2,7 @@ A-ugmented-TM
 =============
 
 Monitorless ATM augmented teller machine demo for http://hack-ing.io/ hackathon
-[[Presentation|https://raw.githubusercontent.com/trototype/A-ugmented-TM/master/AugmentedTM.pdf]]
+[Presentation](https://raw.githubusercontent.com/trototype/A-ugmented-TM/master/AugmentedTM.pdf)
 
 ![reference image](https://raw.githubusercontent.com/trototype/A-ugmented-TM/master/1.PNG)
 ![reference image](https://raw.githubusercontent.com/trototype/A-ugmented-TM/master/1.PNG)
