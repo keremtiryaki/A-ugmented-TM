@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameCtrlr.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameCtrlr.cs" Line="69" Column="63" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/k/Desktop/Hack-ing-vuforia/Assets/Scripts/OnTouchDown.cs" line="18" />
+      <Breakpoint file="/Users/k/Desktop/Hack-ing-vuforia/Assets/Scripts/DestroyByContact.cs" line="8" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
